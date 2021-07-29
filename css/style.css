@@ -7,11 +7,21 @@
     color: #E0E0E0;
     
 }
+/* button */
 .btn-bg-color{
     background-color: #E76F51;
 }
 
 /* body  */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1,h2,h3,h4,h5,h6,p {
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 3rem;
+}
 .honda-primary-text{
     color: #E76F51;
 }
