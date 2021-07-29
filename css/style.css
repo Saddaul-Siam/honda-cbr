@@ -1,5 +1,26 @@
+/* header section */
+
+.header-bg{
+    background-color:#264653 ;
+}
+.header-text-color{
+    color: #E0E0E0;
+    
+}
+.btn-bg-color{
+    background-color: #E76F51;
+}
+
+/* body  */
+.honda-primary-text{
+    color: #E76F51;
+}
+/* brands section */
 .brand-box{
   
     width: 312px;
     height: 100px;
+}
+.brand-bg{
+    background-color:#e0e9f7;
 }
